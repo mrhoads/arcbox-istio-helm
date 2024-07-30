@@ -13,6 +13,7 @@ spec:
         kind: HelmRepository
         name: istio
         namespace: cluster-config
+      version: "1.22.3"
   interval: 1h0m0s
   install:
     remediation:
