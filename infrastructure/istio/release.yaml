@@ -18,3 +18,5 @@ spec:
   install:
     remediation:
       retries: 3
+  values:
+    defaultRevision: default
